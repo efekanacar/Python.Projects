@@ -1,0 +1,12 @@
+Bootstrap 5
+Python ile Siber Güvenlik Uygulamalarý
+Uçtan Uca WordPress
+Turkcell Robotik Süreç Otomasyonu (RPA)
+Asp.Net Core Web API
+Django ile Web Geliþtirme
+TSQL ile Veri Tabaný Programlama
+Vue.JS
+Adobe Animate ve After Effects ile Animasyon
+Unity ile 3D Oyun Geliþtirme
+NoSQL - Doküman Veritabanlarý
+Hypercasual Temelleri
