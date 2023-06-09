@@ -1,0 +1,1 @@
+Bu program, check_password_strength fonksiyonunu kullanarak kullanıcının girdiği şifreyi analiz eder. Şifrenin belirli güvenlik kurallarını karşılayıp karşılamadığını kontrol eder. Eğer şifre belirtilen kurallara uymuyorsa ilgili bir hata mesajı döndürür, aksi halde "Şifre güvenli." mesajını döndürür.
